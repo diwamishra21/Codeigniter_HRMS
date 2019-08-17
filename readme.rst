@@ -1,3 +1,8 @@
+# CodeIgniter HRMS
+
+# Description
+A HRMS project on PHPs Codeigniter Framework
+
 ###################
 What is CodeIgniter
 ###################
